@@ -3,6 +3,7 @@ class hello
 public static void Main()
 {
   Console.WriteLine("Hello");
+Console.writeline("Git demo");
 }
 }
 
